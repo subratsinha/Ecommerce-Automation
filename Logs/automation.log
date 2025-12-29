@@ -32,3 +32,13 @@
 12/14/2025 12:40:37 AM: INFO: ********** Verifying Home Page Title **********
 12/14/2025 12:40:40 AM: INFO: ********** Home Page Title is Passed **********
 12/14/2025 12:41:47 AM: INFO: ********** Login Test is Passed **********
+12/29/2025 09:16:29 PM: INFO: ********** Test_002_DDT_Login **********
+12/29/2025 09:16:29 PM: INFO: ********** Verifying Login DDT Test **********
+12/29/2025 10:26:32 PM: INFO: ********** Test_002_DDT_Login **********
+12/29/2025 10:26:32 PM: INFO: ********** Verifying Login DDT Test **********
+12/29/2025 10:28:39 PM: INFO: ********** Passed Test Case for user: admin@yourstore.com **********
+12/29/2025 10:28:43 PM: INFO: ********** Passed Test Case for user: admin@yourstore.com **********
+12/29/2025 10:28:45 PM: INFO: ********** Passed Test Case for user: adm@yourstore.com **********
+12/29/2025 10:28:46 PM: INFO: ********** Passed Test Case for user: adm@yourstore.com **********
+12/29/2025 10:28:46 PM: INFO: ********** DDT Login Test Passed **********
+12/29/2025 10:28:46 PM: INFO: ********** Completed TC_LoginDDt_002 **********
