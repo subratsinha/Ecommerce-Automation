@@ -192,14 +192,3 @@ pip install -r requirements.txt
 python -m pytest -v -s --html=Reports/report.html --self-contained-html
 ```
 
-## License
-This repository does not include a license. Add one if you plan to share publicly.
-
----
-
-If you want, I can:
-- create a `requirements.txt` from the current venv,
-- run the tests here and generate the `Reports/report.html`, or
-- create and push a GitHub repo for you (provide a PAT or remote URL).
-
-Which should I do next? 
