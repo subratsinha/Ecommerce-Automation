@@ -1,3 +1,4 @@
+from requests import options
 from selenium import webdriver
 import pytest
 from selenium.webdriver.chrome.service import Service
@@ -13,6 +14,12 @@ def setup(browser):
     options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-notifications")
+    options.add_argument("--disable-extensions")
+    options.add_argument("--disable-infobars")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--no-sandbox")
+    options.page_load_strategy = "eager"
 
     driver = None
     if browser == "chrome":
